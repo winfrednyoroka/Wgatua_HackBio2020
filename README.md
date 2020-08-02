@@ -4,4 +4,4 @@
 
 ## Affiliation:  Pwani University and International Centre for Insect Physiology and Ecology
 
-## Role: MSC Bioinformatics Student
+## Role: Intern at HackBio 2020
